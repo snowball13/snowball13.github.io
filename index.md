@@ -8,7 +8,7 @@ I am a PhD student with the Mathematics of Planet Earth Centre for Doctoral Trai
 
 The goal of this project is to investigate sparse spectral methods on triangulations of the sphere as an alternative to the spherical harmonics approach currently in use at the European Centre for Medium-range Weather Forecasts (ECMWF) in their weather and climate model. The aim would be to preserve the predictive skill of the current approach whilst avoiding the parallel scalability bottleneck from the global spectral transform, which is expected to inhibit the future performance of the ECMWF model.
 
-B. Snowball & S. Olver (2019), [Sparse spectral and p-finite element methods for partial differential equations on disk slices and trapeziums](https://arxiv.org/abs/1906.07962), arXiv:1906.07962
+ - B. Snowball & S. Olver (2019), [Sparse spectral and p-finite element methods for partial differential equations on disk slices and trapeziums](https://arxiv.org/abs/1906.07962), arXiv:1906.07962
 
 ### Lagrangian Particle Methods for Incompressible Flows
 
@@ -17,13 +17,13 @@ Visram et al. (2014) compared the semi-geostrophic numerics with the standard Ea
 ## Education
 
 ### Imperial College London
-#### PhD Student in Mathematics with MPE CDT
+##### PhD Student in Mathematics with MPE CDT
 2017-
 
 ### Imperial College London
-#### MRes in Mathematics with MPE CDT
+##### MRes in Mathematics with MPE CDT
 2016-2017
 
 ### University of Bath
-#### MMath(Hons) Mathematics with year long work placement
+##### MMath(Hons) Mathematics with year long work placement
 2011-2016

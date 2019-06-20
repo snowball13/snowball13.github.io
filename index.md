@@ -4,7 +4,7 @@ I am a PhD student with the Mathematics of Planet Earth Centre for Doctoral Trai
 
 ## Projects
 
-### Atmosphere modelling with spectral methods on spherical triangles.
+### Atmosphere Modelling with Spectral Methods on Spherical Triangles.
 
 The goal of this project is to investigate sparse spectral methods on triangulations of the sphere as an alternative to the spherical harmonics approach currently in use at the European Centre for Medium-range Weather Forecasts (ECMWF) in their weather and climate model. The aim would be to preserve the predictive skill of the current approach whilst avoiding the parallel scalability bottleneck from the global spectral transform, which is expected to inhibit the future performance of the ECMWF model.
 

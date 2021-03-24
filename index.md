@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student with the Mathematics of Planet Earth Centre for Doctoral Training (MPE CDT) at Imperial College London, with a background in mathematics. My research focus is on the development of computational tools for PDEs, in particular looking at the development of sparse spectral methods on spherical caps and spherical triangles, with applications in atmosphere modelling.
+I am a PhD student with the Mathematics of Planet Earth Centre for Doctoral Training (MPE CDT) at Imperial College London, with a background in mathematics. My research focus is on the development of computational tools for PDEs, in particular looking at the development of sparse spectral methods on spherical caps, with applications in atmosphere modelling.
 
 ## Projects
 
@@ -8,7 +8,8 @@ I am a PhD student with the Mathematics of Planet Earth Centre for Doctoral Trai
 
 The goal of this project is to investigate sparse spectral methods on subdomains of the sphere that could serve as an alternative to the spherical harmonics approach currently in use at the European Centre for Medium-range Weather Forecasts (ECMWF) in their weather and climate model. The aim would be to preserve the predictive skill of the current approach whilst avoiding the parallel scalability bottleneck from the global spectral transform, which is expected to inhibit the future performance of the ECMWF model. To build to this, we have worked on developing such methods on disk-slices and trapeziums in 2D and spherical caps as a surface in 3D.
 
- - B. Snowball & S. Olver (2020), [Sparse spectral and p-finite element methods for partial differential equations on disk slices and trapeziums](https://doi.org/10.1111/sapm.12303), Studies in Applied Mathematics
+ - B. Snowball & S. Olver (2020). [Sparse spectral and p-finite element methods for partial differential equations on disk slices and trapeziums](https://doi.org/10.1111/sapm.12303). Studies in Applied Mathematics
+ - B. Snowball & S. Olver (2020). [Sparse spectral methods for partial differential equations on spherical caps](https://arxiv.org/pdf/2012.11493.pdf). arXiv preprint arXiv:2012.11493.
 
 ### Lagrangian Particle Methods for Incompressible Flows
 

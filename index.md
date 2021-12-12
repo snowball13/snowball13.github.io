@@ -19,8 +19,8 @@ Visram et al. (2014) compared the semi-geostrophic numerics with the standard Ea
 ## Education
 
 ### Imperial College London
-##### PhD Student in Mathematics with MPE CDT
-2017-
+##### PhD in Mathematics with MPE CDT
+2017-2021
 
 ### Imperial College London
 ##### MRes in Mathematics with MPE CDT

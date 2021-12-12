@@ -1,6 +1,6 @@
 ## About Me
 
-I am a PhD student with the Mathematics of Planet Earth Centre for Doctoral Training (MPE CDT) at Imperial College London, with a background in mathematics. My research focus is on the development of computational tools for PDEs, in particular looking at the development of sparse spectral methods on spherical caps, with applications in atmosphere modelling.
+I am a Software Engineer working for the Parasolid Team of Siemens Industry Software Limited, with a PhD in mathematics from the Mathematics of Planet Earth Centre for Doctoral Training (MPE CDT) at Imperial College London. My research focus was on the development of computational tools for PDEs, in particular looking at the development of sparse spectral methods on spherical caps, with applications in atmosphere modelling.
 
 ## Projects
 

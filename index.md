@@ -10,7 +10,7 @@ The goal of this project is to investigate sparse spectral methods on subdomains
 
  - B. Snowball & S. Olver (2020). [Sparse spectral and p-finite element methods for partial differential equations on disk slices and trapeziums](https://doi.org/10.1111/sapm.12303). Studies in Applied Mathematics.
 
- - B. Snowball & S. Olver (2020). [Sparse spectral methods for partial differential equations on spherical caps](https://arxiv.org/pdf/2012.11493.pdf). arXiv preprint arXiv:2012.11493.
+ - B. Snowball & S. Olver (2020). [Sparse spectral methods for partial differential equations on spherical caps](https://doi.org/10.1093/imatrm/tnab001). arXiv preprint arXiv:2012.11493.
 
 ### Lagrangian Particle Methods for Incompressible Flows
 

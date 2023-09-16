@@ -1,12 +1,12 @@
 ## About Me
 
-I am a Software Engineer working for the Parasolid Team of Siemens Industry Software Limited, with a PhD in mathematics from the Mathematics of Planet Earth Centre for Doctoral Training (MPE CDT) at Imperial College London. My research focus was on the development of computational tools for PDEs, in particular looking at the development of sparse spectral methods on spherical caps, with applications in atmosphere modelling.
+Hi! I am a Software Engineer working for the Parasolid Team of Siemens Industry Software Limited, with a PhD in mathematics from the Mathematics of Planet Earth Centre for Doctoral Training (MPE CDT) at Imperial College London. My research focus was on the development of computational tools for PDEs, in particular looking at the development of sparse spectral methods on spherical caps, with applications in atmosphere modelling.
 
 ## Projects
 
 ### Sparse Spectral Methods on Disk-Slices, Trapeziums and Spherical Caps
 
-The goal of this project is to investigate sparse spectral methods on subdomains of the sphere that could serve as an alternative to the spherical harmonics approach currently in use at the European Centre for Medium-range Weather Forecasts (ECMWF) in their weather and climate model. The aim would be to preserve the predictive skill of the current approach whilst avoiding the parallel scalability bottleneck from the global spectral transform, which is expected to inhibit the future performance of the ECMWF model. To build to this, we have worked on developing such methods on disk-slices and trapeziums in 2D and spherical caps as a surface in 3D.
+The goal of this project was to investigate sparse spectral methods on subdomains of the sphere that could serve as an alternative to the spherical harmonics approach currently in use at the European Centre for Medium-range Weather Forecasts (ECMWF) in their weather and climate model. The aim here is to preserve the predictive skill of the current approach whilst avoiding the parallel scalability bottleneck from the global spectral transform, which is expected to inhibit the future performance of the ECMWF model. To build to this, we have worked on developing such methods on disk-slices and trapeziums in 2D and spherical caps as a surface in 3D.
 
  - B. Snowball & S. Olver (2020). [Sparse spectral and p-finite element methods for partial differential equations on disk slices and trapeziums](https://doi.org/10.1111/sapm.12303). Studies in Applied Mathematics.
 
